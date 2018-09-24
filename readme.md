@@ -11,7 +11,7 @@ By JEFF ANGAMA - 24 09 2018
 # How to install ?
 
 * go to a folder
-* git clone http://srvtfs:8080/tfs/Projects/MIS_Interne_Boiletplate_HtmlLiveReload/%C3%89quipe%20MIS_Interne_Boiletplate_HtmlLiveReload/_git/MIS_Interne_Boiletplate_HtmlLiveReload
+* git clone https://github.com/seaSide974/browsersync-html-css-js.git
 * run 
 > npm install
 * add your html css js in the src folder
