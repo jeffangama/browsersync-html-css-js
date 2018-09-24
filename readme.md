@@ -18,3 +18,7 @@ By JEFF ANGAMA - 24 09 2018
 * run 
 > gulp browser-sync
 * The localhost:3000 launch in browser, each time you save a file in src folder, it will reload the browser
+
+# Screenshot 
+
+![preview](https://github.com/seaSide974/browsersync-html-css-js/blob/master/autoreload.gif)
