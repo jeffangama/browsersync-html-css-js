@@ -11,7 +11,7 @@ By JEFF ANGAMA - 24 09 2018
 # How to install ?
 
 * go to a folder
-* git clone 
+* git clone https://github.com/seaSide974/browsersync-html-css-js.git
 * run 
 > npm install
 * add your html css js in the src folder
