@@ -6,7 +6,7 @@ More info on : https://browsersync.io/docs/gulp
 By JEFF ANGAMA - 24 09 2018
 
 # Pre requisite
-* Install Nodejs, git for windows
+* Install Nodejs, git for windows and run npm install gulp-cli -g
 
 # How to install ?
 
